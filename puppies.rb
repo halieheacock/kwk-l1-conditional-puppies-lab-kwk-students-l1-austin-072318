@@ -12,11 +12,10 @@ puts "good job" >= 3
 
 def some_puppies(puppies, max)
   if puppies > max 
-  puts "no more puppies. puppy restriction"
+    puts "no more puppies. puppy restriction"
   else 
     puts "good job"
-  
-    end
+  end
 end
 
 
