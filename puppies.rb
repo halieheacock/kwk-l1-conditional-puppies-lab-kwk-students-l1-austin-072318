@@ -1,10 +1,10 @@
 def no_puppies 
-  puts "no more pupies" < 
+  puts "no more pupies" < 3
 end
 
 
 def less_puppies
-  puts "good job" > == 3 
+  puts "good job" > = 3 
 end
 
 
