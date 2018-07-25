@@ -10,12 +10,14 @@ puts "good job" >= 3
   end
 
 
-some_puppies
-puts "good job" 
-puts "no more puppies. puppy restriction"
-
-  end
-  end
+def some_puppies(puppies, max)
+  if puppies > max 
+  puts "no more puppies. puppy restriction"
+  else 
+    puts "good job"
+  
+    end
+end
 
 
 
