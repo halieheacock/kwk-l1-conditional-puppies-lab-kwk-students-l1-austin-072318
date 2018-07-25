@@ -1,13 +1,11 @@
-no_puppies 
-puts "no more pupies" <3
-  end
-  end
+def no_puppies 
+  puts "no more pupies" <3
+end
 
 
-less_puppies
-puts "good job" >= 3 
-  end
-  end
+def less_puppies
+  puts "good job" >= 3 
+end
 
 
 def some_puppies(puppies, max)
