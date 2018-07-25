@@ -4,7 +4,7 @@ end
 
 
 def less_puppies
-  puts "good job" >  3 
+  puts "good job" > = 3 
 end
 
 
