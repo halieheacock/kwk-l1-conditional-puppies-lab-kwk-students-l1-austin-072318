@@ -1,5 +1,5 @@
 def no_puppies 
-  puts "no more pupies" < 3
+  puts "no more pupies" < 3 {
 end
 
 
