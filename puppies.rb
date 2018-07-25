@@ -1,23 +1,21 @@
 no_puppies 
-
-
-
-end
-end
+puts "no more pupies" <3
+  end
+  end
 
 
 less_puppies
-
-
-end
-end
+puts "good job" >= 3 
+  end
+  end
 
 
 some_puppies
+puts "good job" 
+puts "no more puppies. puppy restriction"
 
-
-end
-end
+  end
+  end
 
 
 
